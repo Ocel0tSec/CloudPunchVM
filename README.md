@@ -1,18 +1,18 @@
 # CloudPunchVM
 A copy of my AzureDump Installer script if you just want a good standalone Pentesting VM for Azure. It will download necessary modules, languages, scripts and tools. 
 
-It installes the following tools:
+## It installes the following tools:
 - Chocolatey
 - BoxStarter
 - Git
 - Azure CLI
 
-Languages
+## Languages
 - Go (Latest Branch)
 - Python3.8
 -   pip
 
-Modules
+## Modules
 - Az
 - AADInternals
 - PWSMan
@@ -24,7 +24,7 @@ Modules
 - AzureAD
 - Microsoft.PowerShell.SecretManagement
 
-Azure Specific Tools
+## Azure Specific Tools
 - AzureHound
 - RoadRecon
 - PowerZure
