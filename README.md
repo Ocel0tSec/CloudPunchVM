@@ -1,5 +1,5 @@
 # CloudPunchVM
-A copy of my AzureDump Installer script if you just want a good standalone Pentesting VM for Azure. It will download necessary modules, languages, scripts and tools. 
+A copy of my AzureDump Installer script if you just want a good standalone Pentesting VM for Azure. It will download necessary modules, languages, scripts and tools. Disable Defender and Unblock-File for best results.
 
 ## It installes the following tools:
 - Chocolatey
